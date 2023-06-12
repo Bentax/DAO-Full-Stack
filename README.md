@@ -1,5 +1,5 @@
 # Build your own DAO from Scratch, Smart Contracts, Moralis API with Backend and Complete Frontend.
-
+https://youtu.be/PfFB0FlH1PQ
 ## Preparation
 
 Go to the frontend folder and install the dependencies with yarn
